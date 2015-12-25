@@ -1,4 +1,5 @@
 require 'capistrano/multiconfig/dsl'
+require 'capistrano/all'
 
 include Capistrano::DSL
 include Capistrano::Multiconfig::DSL
